@@ -1,8 +1,9 @@
 # Nestjs specific
-/portfolio-website/dist
-/portfolio-website/node_modules
-/portfolio-website/build
-/portfolio-website/tmp
+/nextjs-dashboard/dist
+/nextjs-dashboard/node_modules
+/nextjs-dashboard/build
+/nextjs-dashboard/tmp
+/nextjs-dashboard/.next
 
 # Logs
 logs
